@@ -1,1 +1,1 @@
-# smart-Recipe-Genrator
+# tuition-app
